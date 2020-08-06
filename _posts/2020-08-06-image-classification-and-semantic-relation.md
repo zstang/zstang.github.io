@@ -1,3 +1,7 @@
+---
+layout: post
+title: 图像识别与语义相关性
+---
 # 图像识别与语义相关性
 
 ## key word
